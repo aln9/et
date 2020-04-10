@@ -34,7 +34,7 @@
 			<itunes:subtitle>5150 Emerging Tech</itunes:subtitle>
 			<itunes:summary>H5P</itunes:summary>
 			<enclosure url="https://raw.githubusercontent.com/aln9/et/master/Ramer.mp3" length="22475780" type="x-audio/mp3" />
-			<guid> https://raw.githubusercontent.com/aln9/et/master/Ramer.mp3</guid>
+			<guid>https://raw.githubusercontent.com/aln9/et/master/Ramer.mp3</guid>
 			<!--This is the View raw URL of my audio file. You need to click on the audio you already uploaded to GitHub and click on the View Raw option on the page to open your audio in the browser. Then, copy the URL appear in the URL box of the browser and use it here.-->
 			
 			<pubDate>Friday, 10 March. 2020 00:00:59 CDT</pubDate>
